@@ -54,3 +54,7 @@ You can open tensorboard with `tensorboard --logdir=runs`
 The pygame window opens to black by default but rendering is activated by pressing `p` and decativated by pressing `q`. This is so that the training can run efficient, since it slows down while rendering at the same time.
 
 The model policy is saved in the *trained* folder named by the train_model parameter, as well as the time.
+
+## Notes
+
+Coding this project Github Copilot have been active, able to aid with boilerplate code snippets. The core implementation, methods and fine-tuning is still based on my own design, writing and debugging.
